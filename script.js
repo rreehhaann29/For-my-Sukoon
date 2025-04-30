@@ -1,4 +1,4 @@
 
-window.addEventListener('load', () => {
-    document.getElementById('preloader').style.display = 'none';
+window.addEventListener("load", function () {
+    // Preloader logic could go here
 });
